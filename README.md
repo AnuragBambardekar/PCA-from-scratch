@@ -6,3 +6,5 @@ This data sets consists of 3 different types of irises’ (Setosa, Versicolour, 
 The rows being the samples and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width.
 
 ![](/PCA_output.png?raw=true "PCA output")
+
+Followed a tutorial on Youtube: How to implement PCA (Principal Component Analysis) from scratch with Python by AssemblyAI
